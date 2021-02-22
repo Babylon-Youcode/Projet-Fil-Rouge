@@ -9,6 +9,6 @@ You can use decryption and encryption techniques to keep the courses secure and 
 
 ## Software Requirements
 | Operating system | Windows 7 / 8 / 10 | 
-| Coding Language | HTML, CSS, PHP |
+| Coding Language | HTML, CSS, PHP | 
 | Database | MYSQL | 
 
