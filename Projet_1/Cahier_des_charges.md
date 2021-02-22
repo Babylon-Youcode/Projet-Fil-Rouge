@@ -45,11 +45,11 @@ As a developer, you can create a quiz application for testing coding skills of o
 
 | Number	| Description |	Type | 
 |----------|:-------------:|------:|
-| 1	| Operating System	| Windows XP / Windows | 
+| 1	| Operating System	| Mac / Linux / Windows | 
 | 2 | Frontend | HTML 5 / CSS 3 / JS | 
 | 3	| Backend |	PHP 8 / MYSQL | 
 | 4	| IDE | Visual Code | 
-| 5	| Browser | Google Chrome | 
+| 5	| Browser | Google Chrome / Mozilla | 
 
 ## Useful links and resources
 * [http://quizizz.com](http://quizizz.com)
