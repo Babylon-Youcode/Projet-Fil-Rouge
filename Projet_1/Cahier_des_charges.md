@@ -3,7 +3,7 @@
 ## Objective/ Vision
 It provides a common platform to connect *learner* and *trainer* online. The registered trainer can create Quiz and learner can take quiz and can asses himself/herself.
 
-As a developer, you can create a quiz application for testing coding skills of other developers. (HTML, CSS, JavaScript, Python, PHP, etc…)
+As a developer, you can create a quiz application for testing coding skills of other developers. You’ll start with a logo, some UI/UX wireframes, and starting HTML and CSS,JavaScript, PHP, etc…
 
 
 ## Users of the System
