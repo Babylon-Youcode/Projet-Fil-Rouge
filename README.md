@@ -1,4 +1,4 @@
-# Projet-Fil-Rouge
+# Projet Fil Rouge
 
 ## Qu’est ce qu’un Projet Fil Rouge ?
 Le Projet Fil Rouge est un travail à la charnière entre votre formation
