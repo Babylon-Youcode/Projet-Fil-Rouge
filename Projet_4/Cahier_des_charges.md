@@ -49,8 +49,8 @@ Online education system can also serve as a good content library. This could inc
 
 ## Non-Functional Requirements
 
-| NON-FUNCTIONAL REQUIREMENT | OBJECTIVE | 
-| -------------------------: | -----------: |
+|NON-FUNCTIONAL REQUIREMENT|OBJECTIVE| 
+| -------------------------| -----------|
 | Application Security | The system should be protected in such a manner that one registered user should not be able to access another registered user’s information ensuring privacy of information. | 
 | Database Security | Users of the system should not have direct access to the database to query it nor view data in it. The only access to the database should be via the application interface.| 
 | Browser Compatibility | The application should be accessible on Google Chrome, Mozilla Firefox and Internet Explorer browsers on any device.| 

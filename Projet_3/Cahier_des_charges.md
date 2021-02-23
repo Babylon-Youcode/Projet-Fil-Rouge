@@ -8,7 +8,9 @@ These platforms have to keep a lot of data with them, such as their course detai
 You can use decryption and encryption techniques to keep the courses secure and prevent any breach. PHP is an excellent tool for cybersecurity, and if you’ve been interested in this field, then this project would be perfect for you. Your security implementation would ensure that only authorized people (instructors and students) can access the course material and no one else. 
 
 ## Software Requirements
-| Operating system | Windows 7 / 8 / 10 | 
+| Requirement | Characteristic |
+|-------| ----- | 
+| Operating system | Windows 7 , 8 , 10 | 
 | Coding Language | HTML, CSS, PHP | 
 | Database | MYSQL | 
 
