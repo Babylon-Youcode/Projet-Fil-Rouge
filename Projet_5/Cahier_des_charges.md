@@ -1,6 +1,6 @@
 # Project 5 : Social Network System for Job Placement
 
-## Objectif / Vision
+## Objective / Vision
 
 In this project, you’ll create a web application that connects recruiters and potential candidates. In essence, it would be a social network that enables people to communicate with each other and thus find suitable opportunities. You can take inspiration from major social media platforms such as LinkedIn and Facebook. Facebook is based on PHP, so you can easily imitate some of its features. 
 

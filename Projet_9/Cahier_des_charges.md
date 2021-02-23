@@ -1,6 +1,6 @@
 # Project 9 : Food Ordering System
 
-## Objectif / Vision
+## Objective / Vision
 
 The online food ordering system has a lot of scopes and we can tap it as far as we can as everyone has access to an online ordering facility through the internet.
 In this project any person can order food online. It has two modules, admin and costumer/user.

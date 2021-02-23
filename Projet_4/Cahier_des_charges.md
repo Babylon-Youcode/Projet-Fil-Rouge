@@ -1,6 +1,7 @@
 # Project 4 : Online Education System
 
 ## Objective/ Vision
+
 As Coronavirus forces in-classroom learning to go online across the world.
 
 While the growing COVID-19 pandemic closed all schools, universities, public and private education centers, the outbreak also could spur a new wave of education logic and system for millions. But this time more innovative, inclusive, sustainable and accessible for all. Crisis and human progress have often gone hand in hand throughout history in such challenging times. 

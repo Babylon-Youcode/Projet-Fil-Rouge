@@ -4,7 +4,7 @@ E-commerce means any transaction over the internet.
 In online marketing, a shopping cart is a piece of e-commerce software on a web server that allows visitors to an Internet site to select items for eventual purchase, analogous to the American English term “shopping cart.” In British English, it is generally known as a shopping basket, almost exclusively shortened on websites to “basket.”
 The software allows online shopping customers to accumulate a list of items for purchase, described metaphorically as “placing items in the shopping cart” or “add to cart.” Upon checkout, the software typically calculates a total for the order, including shipping and handling (i.e., postage and packing) charges and the associated taxes, as applicable.
 
-## Objectif / Vision
+## Objective / Vision
 
 The Online Shopping Portal System is a web-based application. The purpose of the application is to automate and facilitate the whole process of shopping. This application fixes the limitation and problems of paper based processes. The main goal to increase the quantity of sales by making the new technology of web pages design more attractive and to search a lot of customers and company to their location. By this system we can advertise and send procure to a lot of customer by sending email.
 

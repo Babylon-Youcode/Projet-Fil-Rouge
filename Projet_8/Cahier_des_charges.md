@@ -1,6 +1,6 @@
 # Project 8 : SUPPLY CHAIN MANAGEMENT
 
-## Objectif / Vision
+## Objective / Vision
 
 *Supply Chain Management* is a project made for bakery products. This system is used by three users admin, manufacture, and retailer. They can easily use this system because it is userfriendly. The main purpose of this system is to make the supply system easy.
 

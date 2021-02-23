@@ -1,6 +1,6 @@
 # Project 6 : Blood Bank Management System
 
-## Objectif / Vision
+## Objective / Vision
 
 The BLOOD BANK MANAGEMENT SYSTEM is great project. this project is designed for successful completion of a project on blood bank management system.
 
