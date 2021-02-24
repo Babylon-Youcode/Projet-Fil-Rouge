@@ -47,7 +47,7 @@ Le Projet Fil Rouge a pour principaux objectifs de finaliser votre formation sci
 14. [Smart Mzinda](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_14)
 15. [Online Banking Management System](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_15)
 16. [Citizen Card System](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_16)
-17. 
+17. [Real estate using data mining](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_17)
 18. 
 19. 
 20. 
