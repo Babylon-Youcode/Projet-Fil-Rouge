@@ -1,4 +1,4 @@
-# Project 15 : online banking management system
+# Project 15 : Online Banking Management System
 
 ## Objective / Vision
 
