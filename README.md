@@ -49,6 +49,6 @@ Le Projet Fil Rouge a pour principaux objectifs de finaliser votre formation sci
 16. [Citizen Card System](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_16)
 17. [Real estate using data mining](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_17)
 18. [Pharmacy Information System](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_18)
-19. 
-20. 
+19. [Freelance Platform](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_19)
+20. [Crowdfunding System](https://github.com/Babylon-Youcode/Projet-Fil-Rouge/tree/main/Projet_20)
 21. 
